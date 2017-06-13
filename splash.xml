@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!-- Este arquivo deve ser armasenado na pasta 'values' do projeto -->
+  <style name="myStyle.Theme" parent="android:Theme">
+    <item name="android:windowBackground">
+      <!-- Inclusão da imagem que vai aparecer ao usuario -->
+      @drawable/asd
+    </item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+</resources>
